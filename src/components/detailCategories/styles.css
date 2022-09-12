@@ -46,7 +46,8 @@
 }
 .items {
   overflow: auto;
-  white-space: nowrap;
+  width: 100%;
+  display: -webkit-inline-box;
 }
 .image-holder {
   /* width: 40%; */
@@ -59,7 +60,7 @@
 
 .item-holder {
   float: left;
-  width:500px
+  width: 25%;
 }
 
 .rate {
