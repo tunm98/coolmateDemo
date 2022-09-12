@@ -36,7 +36,7 @@ export default function Category() {
         ))}
       </div>
       {isSelected && (
-        <div className="items flex">
+        <div className="items">
           {selectedData.children1.map((child1, index) => (
             <div className="item-holder" key={index}>
               <div className="image-holder">
