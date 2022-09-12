@@ -1,0 +1,158 @@
+
+{"data":[
+    { "id": 1, "name": "Outlet" },
+    { "id": 2, "name": "Combo Tiết kiệm" },
+    {
+      "name": "Sản phẩm",
+      "id": 3,
+      "children": [
+        {
+          "name": "Nhu cầu",
+          "id": 1,
+          "children": [
+            {
+              "id": 1,
+              "name": "Mặc nhà & Mặc trong",
+              "children": ["Homewear & Underwear"]
+            },
+            {
+              "id": 2,
+              "name": "Mặc hàng ngày",
+              "children": ["Casualwear"]
+            },
+            {
+              "id": 3,
+              "name": "Đồ thể thao",
+              "children": ["Activewear"]
+            },
+            {
+              "id": 4,
+              "name": "Phụ kiện",
+              "children": ["Accesories"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Danh mục",
+          "children": [
+            {
+              "id": 1,
+              "name": "Áo nam",
+              "children": [
+                "Áo Tank top",
+                "Áo T-shirt",
+                "Áo Polo",
+                "Áo Sơ mi",
+                "Áo Thể thao",
+                "Áo In hình",
+                "Áo Khoác thể thao"
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Phụ Kiện",
+              "children": [
+                "Mũ (Nón)",
+                "Tất (Vớ)"
+              ]
+            },
+            {
+              "id": 3,
+              "name": "Quần nam",
+              "children": [
+                "Quần Shorts",
+                "Quần Jeans",
+                "Quần Dài"
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Quần Lót Nam",
+              "children": [
+                "Quần Brief (Tam giác)",
+                "Quần Trunk (Boxer)",
+                "Quần Brief Boxer",
+                "Boxer dài"
+              ]
+            },
+            {
+              "id": 5,
+              "name": "Tất cả sản phẩm",
+              "children": []
+            },
+            {
+              "id": 6,
+              "name": "Boxer đồ nam",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Bộ Sưu tập",
+          "id": 3,
+          "children": [
+            {
+              "id": 1,
+              "name": "Vũ trụ áo Marvel",
+              "children": ["Ưu đãi trải nghiệm hấp dẫn"]
+            },
+            {
+              "id": 2,
+              "name": "Clean Vietnam",
+              "children": ["Sự kết hợp giữa Coolmate và Vietmax"]
+            },
+            {
+              "id": 3,
+              "name": "Coolmate basics",
+              "children": ["BST giá rẻ - chất lượng"]
+            },
+            {
+              "id": 4,
+              "name": "Care & Share",
+              "children": ["10% doanh thu dhàn cho các bé"]
+            },
+            {
+              "id": 5,
+              "name": "Sản phẩm bền vững",
+              "children": ["Sản phẩm thân thiện với môi trường"]
+            }
+          ]
+          
+        },
+        {
+            "name": "Công nghệ",
+            "id": 4,
+            "children": [
+              {
+                "id": 1,
+                "name": "Excool",
+                "children": ["Công nghệ làm mát tối đa"]
+              },
+              {
+                "id": 2,
+                "name": "Cleandye",
+                "children": ["Nhuộm không dùng nước"]
+              },
+              {
+                "id": 3,
+                "name": "HeiQ Viroblock",
+                "children": ["Diệt 99.99% virus SARS-CoV2"]
+              },
+              {
+                "id": 4,
+                "name": "Anti-Smell",
+                "children": ["Công khử mùi từ Nhật Bản"]
+              }, 
+              {
+                "id":5,
+                "src":"https://mcdn.coolmate.me/image/August2022/Banner-Marvel-LDP_(3)_(1)_(1).jpg"
+              }
+            ]
+        }
+      ]
+    },
+    { "id": 4, "name": "Coolxprint" },
+    { "id": 5, "name": "Về Coolmate" },
+    { "id": 6, "name": "Chọn size" }
+  ]}

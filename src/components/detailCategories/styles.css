@@ -1,0 +1,82 @@
+.category-container {
+  position: relative;
+  top: 50px;
+  width: 100%;
+}
+.second-slogan {
+  font-size: 24px;
+  margin: 8px auto;
+  text-align: center;
+  font-weight: bold;
+}
+.category-name {
+  width: 60%;
+  margin: 0 auto;
+  color: var(--grey);
+  padding-bottom: 15px;
+}
+.category-name > div {
+  padding: 0 40px;
+  font-weight: bold;
+  width: 33.333%;
+  padding-bottom: 15px;
+  font-size: 14px !important;
+  padding-top: 15px;
+}
+.on-click {
+  border-bottom: 2px solid var(--black);
+}
+.not-on-click {
+  border-bottom: 2px solid var(--grey);
+}
+.tag {
+  font-size: 9px;
+  padding: 0 5px;
+  margin-left: 5px;
+  background-color: var(--yellow);
+  border-radius: 5px;
+  font-weight: bold;
+  color: var(--black);
+  line-height: 170%;
+  margin-bottom: 10px;
+}
+.category-name > div:hover {
+  cursor: pointer;
+  color: var(--black);
+}
+.items {
+  overflow: auto;
+  white-space: nowrap;
+}
+.image-holder {
+  /* width: 40%; */
+  position: relative;
+  display: inline-block;
+}
+.item-holder img {
+  width: 100%;
+}
+
+.item-holder {
+  float: left;
+  width:500px
+}
+
+.rate {
+  width: auto;
+}
+.rate-infor {
+  justify-content: space-around;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+}
+.type {
+  background-color: var(--yellow);
+  border-radius: 5px;
+  padding: 2px;
+  font-size: 10px;
+}
+.fa-star {
+  font-size: 13px;
+}

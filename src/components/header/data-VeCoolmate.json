@@ -1,0 +1,28 @@
+{
+    "data": [
+       {
+        "id":1,
+        "src":"https://mcdn.coolmate.me/image/August2022/mceclip0_97.jpg",
+        "title":"Coolmate 101",
+        "description":"Tất cả những gì bạn muốn biết về Coolmate và gia nhập Coolmate"
+       },
+       {
+        "id":2,
+        "src":"https://mcdn.coolmate.me/image/August2022/mceclip1_92.jpg",
+        "title":"Dịch vụ 100% hài lòng",
+        "description":"Bật mí 11 dịch vụ Coolmate cam kết với khách hàng"
+       },
+       {
+        "id":3,
+        "src":"https://mcdn.coolmate.me/image/August2022/mceclip2_100.jpg",
+        "title":"Coolmate - Khách hàng thân thiết",
+        "description":"Những ưu đãi hấp dẫn dành cho khách hàng thân thiết"
+       },
+       {
+        "id":4,
+        "src":"https://mcdn.coolmate.me/image/August2022/mceclip3_34.jpg",
+        "title":"Câu chuyện",
+        "description":"Về Startup vơi mô hình Online D2C"
+       }
+    ]
+}

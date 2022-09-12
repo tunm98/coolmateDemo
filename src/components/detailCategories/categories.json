@@ -1,0 +1,396 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Combo Tiết kiệm",
+      "type": "HOT",
+      "children1": [
+        {
+          "id": 4,
+          "name": "Combo 02 Quần short nam thể thao Movement 5'' co giãn",
+          "rate": 5,
+          "rateNumber": 9,
+          "type": "Saving Packs",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/2_57.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/3_43.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/4_27.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/5_41.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/July2022/6_(1).jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/July2022/2_(1).jpg"
+          ],
+          "price": "299.000",
+          "originalPrice": "398.000",
+          "discount": "-25%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 5,
+          "name": "Combo 03 Áo thun thể thao nam ProMax-S1",
+          "rate": 4.9,
+          "rateNumber": 63,
+          "type": "Saving Packs",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/Mix_mau_4.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/Mix_mau_33.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/August2022/maumix2.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/August2022/maumix3.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/August2022/4_27.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/April2022/DSC05908-Recovered_copy11_43.jpg"
+          ],
+          "price": "399.000",
+          "originalPrice": "537.000",
+          "discount": "-26%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 6,
+          "name": "Combo 03 Áo Polo thể thao nam ProMax-S1 Logo thoáng khí",
+          "rate": 4.8,
+          "rateNumber": 325,
+          "type": "Saving Packs",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/Mix_mau_4.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/Mix_mau_33.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/August2022/maumix2_46.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/August2022/maumix3_77.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/August2022/4114.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/November2021/IMG_64714.jpg"
+          ],
+          "price": "499.000",
+          "originalPrice": "717.000",
+          "discount": "-30%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 7,
+          "name": "Combo 02 Quần short nam thể thao ProMax-S1 thoáng khí",
+          "rate": 4.9,
+          "rateNumber": 328,
+          "type": "Saving Packs",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/remix-den-bongdem.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/mixaqua-bongdem.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/IMG_0515.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/remix.jpeg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/August2022/4432.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/April2022/quanpromax_6.jpg"
+          ],
+          "price": "299.000",
+          "originalPrice": "378.000",
+          "discount": "-21%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 8,
+          "name": "Combo 03 Áo Tank top thể thao nam thoáng khí",
+          "rate": 5,
+          "rateNumber": 21,
+          "type": "Saving Packs",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/mix1DSC04735-copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/1DSC04774-Edit-copy_32.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/1DSC04648-copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/1DSC04735-copy.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/August2022/Tanktop_-_mixgg.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/April2022/DSC04765-copy_69.jpg"
+          ],
+          "price": "299.000",
+          "originalPrice": "537.000",
+          "discount": "-44%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 9,
+          "name": "Combo 03 Quần short nam thể thao Recycle 5'' thoáng khí",
+          "rate": 4.7,
+          "rateNumber": 40,
+          "type": "Saving Packs",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/mau3.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/April2022/IMG_3528_16_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/March2022/IMG_3528_16.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/March2022/IMG_3493-2_86.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=80/image/August2022/mixxx_29.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=80/image/June2022/DSC04215-copy.jpg"
+          ],
+          "price": "299.000",
+          "originalPrice": "447.000",
+          "discount": "-33%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Quần lót nam",
+      "children1": [
+        {
+          "id": 10,
+          "name": "Combo 03 Quần lót Trunk vản cotton Modal đen cạp mới",
+          "rate": 4.9,
+          "rateNumber": 23,
+          "type": "New",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/59_copy_3mauf.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/May2022/59_copy_2.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/May2022/58_copy_2.jpg",
+            ""
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/May2022/DSC06301_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/May2022/DSC06279_copy.jpg"
+          ],
+          "price": "279.000",
+          "originalPrice": "299.000",
+          "discount": "-7%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 11,
+          "name": "Combo 02 Quần lót nam Trunk Microfiber Excool thoáng khí ",
+          "rate": 4.9,
+          "rateNumber": 124,
+          "type": "",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/den_ex_6.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/navy_ex_5.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/May2022/DSC06279_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/June2022/combo_2_den.jpg"
+          ],
+          "price": "239.000",
+          "originalPrice": "",
+          "discount": "",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 12,
+          "name": "Combo 03 Quần lót Brief vải cotton Modal đen cạp mới",
+          "rate": 5,
+          "rateNumber": 49,
+          "type": "Sale",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/navy_ex_5.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/May2022/58_copy_2.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/June2022/DSC06465_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/June2022/DSC06425_copy.jpg"
+          ],
+          "price": "159.000",
+          "originalPrice": "199.000",
+          "discount": "-20%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 13,
+          "name": "Combo 03 Quần lót nam Trunk Bamboo kháng khuẩn",
+          "rate": 4.9,
+          "rateNumber": 1749,
+          "type": "Hot",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/May2022/58_copy_2.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/bamboo_trunk_vai_trang.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/November2021/bb444_5.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/August2022/bammboo_2.jpg"
+          ],
+          "price": "299.000",
+          "originalPrice": "",
+          "discount": "",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 14,
+          "name": "Combo 03 Quần lót Brief Boxer Modal (gỗ sồi) mềm mại",
+          "rate": 4.8,
+          "rateNumber": 97,
+          "type": "",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/May2022/58_copy_2.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/April2022/IMG_3528_16_copy.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/November2021/mm90_86.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/November2021/mm91_77.jpg"
+          ],
+          "price": "299.000",
+          "originalPrice": "",
+          "discount": "",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        },
+        {
+          "id": 15,
+          "name": "Combo 03 Quần lót nam Brief Bamboo kháng khuẩn",
+          "rate": 4.9,
+          "rateNumber": 112,
+          "type": "",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/June2022/mau3.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/April2022/IMG_3528_16_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/March2022/IMG_3528_16.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/March2022/IMG_3493-2_86.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/November2021/hh6_84.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/November2021/d234_16.jpg"
+          ],
+          "price": "299.000",
+          "originalPrice": "",
+          "discount": "",
+          "size": ["M", "L", "Xl", "2XL", "3XL"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Đồ thể thao",
+      "children1": [
+        {
+          "id": 16,
+          "name": "Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa",
+          "rate": 4.9,
+          "rateNumber": 156,
+          "type": "",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/August2022/drimintt.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/August2022/drisky1.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/November2021/19-8_copy_4_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/December2021/18-3_1.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/November2021/7_61.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/November2021/17-0_64-copy1_18.jpg"
+          ],
+          "price": "189.000",
+          "originalPrice": "",
+          "discount": "",
+          "size": ["M", "L", "Xl", "2XL", "3XL"],
+          "sales": "Mua 2 chỉ còn 159k/chiếc"
+        },
+        {
+          "id": 17,
+          "name": "Quần short nam New French Terry",
+          "rate": 4.6,
+          "rateNumber": 27,
+          "type": "Sale",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/xam_ong.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/Quan_Navy_5.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/quan_den_4.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/July2022/DSC05468-copyden.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/July2022/DSC054681-copy.jpg"
+          ],
+          "price": "181.000",
+          "originalPrice": "259.000",
+          "discount": "-30%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"],
+          "sales": ""
+        },
+        {
+          "id": 18,
+          "name": "Quần short nam thể thao Movement co giãn",
+          "rate": 4.9,
+          "rateNumber": 35,
+          "type": "New",
+          "color": [
+            "ttps://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/_CMM1056_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/_CMM1082_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/Quan_Navy_5.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/quan_den_4.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/August2022/DSC01693-copymovexanh.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/August2022/DSC01693-copyngocxxan.jpg"
+          ],
+          "price": "239.000",
+          "originalPrice": "",
+          "discount": "",
+          "size": ["M", "L", "Xl", "2XL", "3XL"],
+          "sales": "Mua 2 chỉ còn 199k/chiếc"
+        },
+        {
+          "id": 19,
+          "name": "Áo khoác gió thể thao HeiQ ViroBlock, chống tia UV và trượt nước",
+          "rate": 4.8,
+          "rateNumber": 321,
+          "type": "Sale",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/Quan_Navy_5.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/quan_den_4.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/February2022/NNjac28.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/February2022/NNjac22.jpg"
+          ],
+          "price": "399.000",
+          "originalPrice": "499.000",
+          "discount": "-20%",
+          "size": ["M", "L", "Xl", "2XL", "3XL"],
+          "sales": ""
+        },
+        {
+          "id": 20,
+          "name": "Áo thun thể thao nam Active ProMax",
+          "rate": 4.9,
+          "rateNumber": 56,
+          "type": "New",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/_CMM1056_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/_CMM1082_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/Quan_Navy_5.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/quan_den_4.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/June2022/activv34_78.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/June2022/activv41_7.jpg"
+          ],
+          "price": "179.000",
+          "originalPrice": "",
+          "discount": "",
+          "size": ["M", "L", "Xl", "2XL", "3XL"],
+          "sales": "Mua 2 chỉ còn 149k/chiếc"
+        },
+        {
+          "id": 21,
+          "name": "Áo Polo nam thể thao thoáng khí, nhuộm sạch Cleandye",
+          "rate": 4.8,
+          "rateNumber": 33,
+          "type": "",
+          "color": [
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/Quan_Navy_5.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/February2022/quan_den_4.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/_CMM1056_copy.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80/uploads/July2022/_CMM1082_copy.jpg"
+          ],
+          "src": [
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/June2022/polocleandyeden_26.jpg",
+            "https://media.coolmate.me/cdn-cgi/image/width=450,height=663,quality=100/uploads/June2022/polocleandyexanh_58.jpg"
+          ],
+          "price": "289.000",
+          "originalPrice": "",
+          "discount": "",
+          "size": ["M", "L", "Xl", "2XL", "3XL"],
+          "sales": "Mua 2 chỉ còn 249k/chiếc"
+        }
+      ]
+    }
+  ]
+}

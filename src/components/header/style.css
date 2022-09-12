@@ -1,0 +1,362 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Pangea, sans-serif;
+  font-size: 13px;
+}
+.flex {
+  display: flex;
+}
+.column {
+  flex-direction: column;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}
+:root {
+  --yellow: #f9f86c;
+  --black: #000;
+  --red: rgb(255, 49, 2);
+  --grey: rgb(168, 164, 164);
+  --white: #fff;
+  --hover: #4083ff;
+  --fb: #2f5acf;
+}
+.slogan {
+  background-color: var(--yellow);
+  text-align: center;
+  color: var(--black);
+  padding: 3px 0;
+  position: relative;
+}
+.slogan:hover {
+  background-color: var(--grey);
+}
+.navbar {
+  height: 50px;
+  border-bottom: 1px solid var(--black);
+  background-color: var(--white);
+  padding: 0 64px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  width: 100%;
+}
+.navbar-search {
+  justify-content: center;
+}
+.navbar:hover {
+  background-color: var(--yellow);
+}
+.navbar-search {
+  background-color: var(--white) !important;
+}
+.logo {
+  height: 36px;
+}
+.logo img {
+  width: auto;
+  height: 100%;
+}
+.menu-item {
+  padding: 17px 0;
+}
+.menu li {
+  color: var(--black);
+  list-style-type: none;
+  padding: 0 20px;
+  font-weight: bold;
+}
+.menu div:first-child li {
+  color: var(--red);
+}
+.menu li:hover {
+  cursor: pointer;
+  color: var(--grey);
+}
+.icon {
+  padding: 10px;
+}
+.icon img:hover {
+  cursor: pointer;
+}
+
+.submenu {
+  position: absolute;
+  width: 100%;
+  height: 380px;
+  background-color: white;
+  left: 0;
+  top: 49px;
+  padding: 16px 0 20px 0;
+  z-index: 3;
+}
+.submenu-container {
+  width: 70%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1fr;
+  margin: 0 auto;
+  color: var(--grey);
+  font-weight: bold;
+}
+.child {
+  text-align: left;
+  width: 100%;
+}
+.divide-column:nth-child(2) {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 320px;
+}
+.child-3:hover {
+  color: var(--hover);
+  cursor: pointer;
+}
+.child-1 {
+  margin-bottom: 20px;
+}
+.child-2 {
+  color: var(--black);
+  padding: 3px 0;
+}
+.child-2-img {
+  width: 100%;
+  border-radius: 10px;
+}
+.child-3 {
+  font-size: 11px;
+  font-weight: lighter;
+  color: var(--black);
+  position: relative;
+  /* top: -5px; */
+  padding: 3px 0;
+}
+.fa-bars {
+  display: none;
+}
+.coolmate {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 80%;
+  margin: 0 auto;
+}
+.aboutCoolmate {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.aboutCoolmate-container {
+  text-align: left;
+  padding: 20px 10px 0 10px;
+}
+.aboutCoolmate-container:hover {
+  cursor: pointer;
+}
+.aboutCoolmate-container p:nth-child(even) {
+  font-weight: bold;
+  padding-top: 5px;
+}
+.aboutCoolmate-container p:last-child {
+  font-size: 11px;
+}
+.submenu > div > p {
+  text-align: left;
+  width: 80%;
+  margin: 0 auto;
+  font-weight: bold;
+  color: var(--grey);
+}
+.search {
+  width: 300px;
+  height: 30px;
+  background-color: var(--white);
+  border: none;
+  font-size: 14px;
+  color: var(--black);
+  position: relative;
+  z-index: 3;
+}
+.exit {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: 2;
+}
+.search:focus {
+  outline: none;
+}
+.overlay {
+  background: var(--black);
+  opacity: 0.5;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  z-index: 2;
+}
+.overlay-container {
+  position: relative;
+  width: 100%;
+}
+.registerForm {
+  position: absolute;
+  z-index: 3;
+  max-height: 75vh;
+  width: 40%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 18%);
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 30px;
+}
+.warning,
+.exitButton,
+.registerForm h1 {
+  color: var(--black);
+}
+.registerForm {
+  align-items: center;
+}
+.registerForm h1 {
+  margin: 15px 0;
+}
+.warning {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.warning a {
+  color: var(--fb);
+  cursor: pointer;
+}
+.registerForm input {
+  width: 100%;
+  padding: 11px 20px;
+  border: 1px groove var(--grey);
+  border-radius: 16px;
+  margin-bottom: 15px;
+  background-color: #fff;
+  outline: none;
+  color: var(--black);
+  font-size: 13.5px;
+}
+.registerForm input:focus {
+  border: 1px solid var(--fb);
+  outline: none;
+}
+.exitButton i {
+  font-size: 19px;
+  position: absolute;
+  right: 15px;
+  top: 10px;
+}
+.exitButton i:hover {
+  font-size: 23px;
+  cursor: pointer;
+}
+.registerForm h1 {
+  font-size: 30px;
+}
+.registerForm button {
+  width: 100%;
+  cursor: pointer;
+}
+.first-button:hover {
+  background-color: var(--grey);
+  color: black;
+  outline: none;
+}
+.login {
+  border-radius: 16px;
+  margin: 10px 0;
+  padding: 10px 0;
+}
+.divider {
+  width: 100%;
+}
+.line {
+  border-top: 1px solid black;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  opacity: 0.5;
+}
+.or {
+  color: var(--black);
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+  top: -15px;
+  width: 40px;
+  background-color: #fff;
+}
+.fa-square-facebook {
+  font-size: 20px;
+  position: absolute;
+  margin-left: 5px;
+  margin-top: -2px;
+}
+.facebook {
+  background-color: var(--fb);
+}
+.google {
+  border: 1px groove var(--grey);
+  background-color: var(--white);
+  color: var(--black);
+}
+.login img {
+  width: 18px;
+  margin-left: 5px;
+  position: absolute;
+}
+.more a {
+  color: var(--fb);
+}
+.more a {
+  cursor: pointer;
+  color: var(--black);
+}
+.more {
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.none,.menu-button-container {
+  display: none;
+}
+/* Respondsive */
+
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+  .navbar {
+    padding: 0 30px;
+  }
+  .menu-item li {
+    padding: 0 15px;
+  }
+  .click {
+    width: 95% !important;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 999px) {
+  .menu {
+    display: none !important;
+  }
+  .click {
+    width: 95% !important;
+  }
+  .menu-button-container {
+    display:block;
+  }
+  .open-close {
+    display: block;
+    font-size: 18px !important;
+    cursor: pointer;
+  }
+}

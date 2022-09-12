@@ -1,0 +1,100 @@
+{
+    "menu": [
+        {
+            "id":1,
+            "name": "Sản phẩm",
+            "children1": [{
+                "id": 2,
+                "name": "Áo nam",
+                "children2": ["Áo Tank top","Áo T-shirt","Áo Polo","Áo Sơ mi","Áo Thể thao","Áo In Hình","Áo Khoác thể thao"]
+            },
+            {
+                "id": 3,
+                "name": "Quần nam",
+                "children2": ["Quần Lót nam","Quần Shorts","Quần Jeans","Quần Dài"]
+            },
+            {
+                "id": 4,
+                "name": "Phụ kiện",
+                "children2": ["Mũ (Nón)","Tất (Vớ)"]
+            }]
+        },
+        {
+            "id":5,
+            "name": "Bộ sưu tập",
+            "children1": [{
+                "id": 6,
+                "name": "Vũ trụ áo Marvel",
+                "children2": ["Ưu đãi trải nghiệm hấp dẫn"]
+            },
+            {
+                "id": 7,
+                "name": "Clean Vietnam",
+                "children2": ["Sự kết hợp giữa Coolmate & Vietmax"]
+            },
+            {
+                "id": 8,
+                "name": "Coolmate Basics",
+                "children2": ["BST giá rẻ - chất lượng"]
+            },
+            {
+                "id": 9,
+                "name": "Care & Share",
+                "children2": ["10% doanh thu dành cho các bé"]
+            },
+            {
+                "id": 10,
+                "name": "Sản phẩm bền vững",
+                "children2": ["Sản phẩm thân thiện với môi trường"]
+            }]
+        },
+        {
+            "id":11,
+            "name": "Nhu cầu",
+            "children1": [{
+                "id": 12,
+                "name": "Mặc ở nhà và Mặc trong",
+                "children2": ["Homewear & Underwear"]
+            },
+            {
+                "id": 13,
+                "name": "Mặc hàng ngày",
+                "children2": ["Casualwear"]
+            },
+            {
+                "id": 14,
+                "name": "Đồ thể thao",
+                "children2": ["Coolmate active"]
+            },
+            {
+                "id": 15,
+                "name": "Phụ kiện",
+                "children2": ["Accesories"]
+            }]
+        },
+        {
+            "id":14,
+            "name": "Công nghệ",
+            "children1": [{
+                "id": 15,
+                "name": "Excool",
+                "children2": ["Công nghệ làm mát tối đa"]
+            },
+            {
+                "id": 16,
+                "name": "Cleandye",
+                "children2": ["10% Nhuộm không dùng nước"]
+            },
+            {
+                "id": 17,
+                "name": "HeiQ Viroblock",
+                "children2": ["Diệt 99.99% virus SARC-CoV2"]
+            },
+            {
+                "id": 15,
+                "name": "Anti-smell",
+                "children2": ["Công nghệ khử mùi từ Nhật Bản"]
+            }]
+        }
+    ]
+}
